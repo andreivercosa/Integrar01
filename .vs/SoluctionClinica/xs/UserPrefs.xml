@@ -1,0 +1,44 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="DAL/Percistence/Conexao.cs">
+    <Files>
+      <File FileName="SoluctionClinica/MyClass.cs" Line="1" Column="1" />
+      <File FileName="BLL/MyClass.cs" Line="1" Column="1" />
+      <File FileName="BLL/Model/TipoExame.cs" Line="1" Column="1" />
+      <File FileName="BLL/Model/Estado.cs" Line="1" Column="1" />
+      <File FileName="BLL/Model/Especialidade.cs" Line="8" Column="48" />
+      <File FileName="DAL/MyClass.cs" Line="1" Column="1" />
+      <File FileName="DAL/Percistence/EstadoDal.cs" Line="1" Column="1" />
+      <File FileName="DAL/Percistence/EspecialidadeDal.cs" Line="1" Column="1" />
+      <File FileName="DAL/Percistence/TipoExameDal.cs" Line="1" Column="1" />
+      <File FileName="DAL/Percistence/Conexao.cs" Line="30" Column="33" />
+      <File FileName="packages/MySql.Data.6.9.12/Readme.txt" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SoluctionClinica" expanded="True">
+            <Node name="BLL" expanded="True">
+              <Node name="Model" expanded="True" />
+            </Node>
+            <Node name="DAL" expanded="True">
+              <Node name="Packages" expanded="True" />
+              <Node name="Percistence" expanded="True">
+                <Node name="Conexao.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="SoluctionClinica" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.SoluctionClinica FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.BLL FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.DAL FirstBuild="True" />
+</Properties>
